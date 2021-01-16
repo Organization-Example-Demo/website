@@ -1,4 +1,0 @@
-# READ ME
-
-* this is a demo
-* HEllo MATT

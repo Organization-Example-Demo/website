@@ -2,6 +2,4 @@
 
 This is a really awsome website
 
-Editing on another branch
-
-update locally, then remotely
+Updates made on master on github before Rebase
